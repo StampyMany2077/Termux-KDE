@@ -24,9 +24,15 @@ pkg termux-x11-nightly pulseaudio dbus -y
 ```
 # Setup   
 in order to run kde you will need to run this   
-For full intall   
+For full install   
 ```
 pkg install plasma kde-applications -y
 # this installs kde plasma (the desktop envirment) and its applications
 ```
+For a minimal installation   
+```
+pkg install plasma-desktop -y
+# It only installs the core essentals needed for kde to run
+```
+
 
