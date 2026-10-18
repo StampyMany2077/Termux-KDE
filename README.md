@@ -17,7 +17,7 @@ pkg upate && pkg upgrade -y
 # It updates its core packages to the lastest version
 
 pkg install x11-repo tur-repo -y
-# It instlls the packages thats needed to install kde and its componets
+# It installs the packages thats needed to install kde and its componets
 
 pkg termux-x11-nightly pulseaudio dbus -y
 # Its required to get the display and sound to work
