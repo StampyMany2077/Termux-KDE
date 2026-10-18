@@ -22,4 +22,11 @@ pkg install x11-repo tur-repo -y
 pkg termux-x11-nightly pulseaudio dbus -y
 # Its required to get the display and sound to work
 ```
+# Setup   
+in order to run kde you will need to run this   
+For full intall   
+```
+pkg install plasma kde-applications -y
+# this installs kde plasma (the desktop envirment) and its applications
+```
 
