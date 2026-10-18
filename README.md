@@ -29,13 +29,13 @@ For full install
 pkg install plasma kde-applications -y
 # this installs KDE plasma (the desktop envirment) and its applications
 ```
-You will need about 4-5 GB of space
+You will need about 4-5 GB of space   
 For a minimal installation   
 ```
 pkg install plasma-desktop -y
 # It only installs the core essentals needed for KDE to run
 ```
-You will only need about 2-3 GB of space
+You will only need about 2-3 GB of space   
 Next you will need 3d acceleration   
 To install it run this   
 ```
