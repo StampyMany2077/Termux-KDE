@@ -1,5 +1,5 @@
 # Termux-KDE
-this guide is for how to run kde on your android phone
+This guide is for how to run kde on your android phone
 | Functions | Do They Work ? |   
 |------------|--------------
 | Sound | Yes ✅ |   
@@ -23,7 +23,7 @@ pkg termux-x11-nightly pulseaudio dbus curl -y
 # Its required to get the display and sound to work
 ```
 # Setup   
-in order to run kde you will need to run this   
+In order to run kde you will need to run this   
 For full install   
 ```
 pkg install plasma kde-applications -y
@@ -34,12 +34,12 @@ For a minimal installation
 pkg install plasma-desktop -y
 # It only installs the core essentals needed for KDE to run
 ```
-next you will need 3d acceleration   
+Next you will need 3d acceleration   
 To install it run this   
 ```
 pkg install mesa-zink virglrenderer-mesa-zink vulkan-loader-android -y
 ```
-# run KDE   
+# Run KDE   
 In order to run KDE you will need to get the install sh script   
 To download the script you will need to run   
 ```
