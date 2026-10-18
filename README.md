@@ -1,6 +1,7 @@
 # Termux-KDE
 this guide is for how to run kde on your android phone
-| Functions | Do They Work ? |
+| Functions | Do They Work ? |   
+
 | Sound | Yes ✅ |
 | Wi-Fi | Yes ✅ |
 | KDE Connect to phone | Mostly ✅ |
