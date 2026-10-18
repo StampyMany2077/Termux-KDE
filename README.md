@@ -8,7 +8,7 @@ This guide is for how to run kde on your android phone
 | 3d Acceleration | Yes ✅ (Though VirGL) |   
 | Brightness and Volume control | Yes ✅ (Requires Termux:API) |   
 # Prerequisites   
-First for minimal use you will need [Termux](https://f-droid.org/repo/com.termux_1022.apk) and [Termux:X11](https://github.com/termux/termux-x11/releases/download/nightly/termux-x11-universal-debug.apk)   
+First for minimal use you will need [Termux](https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_universal.apk) and [Termux:X11](https://github.com/termux/termux-x11/releases/download/nightly/termux-x11-universal-debug.apk)   
 If you want the controls such as the Brightness and Volume control you will need [Termux:API](https://github.com/termux/termux-api/releases/download/v0.53.0/termux-api-app_v0.53.0+github.debug.apk)   
 # Setup Prerequisites   
 To setup Termux for installing kde you will need to do this   
